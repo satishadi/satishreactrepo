@@ -4,8 +4,8 @@ import "./TranslateComponent.css";
 // Configure AWS SDK
 AWS.config.update({
   region: "us-west-2", // replace with your preferred AWS region
-  accessKeyId: "", // replace with your access key ID
-  secretAccessKey: "", // replace with your secret access key
+  accessKeyId: "AKIAQ4QBEDP6NZFZPOFG", // replace with your access key ID
+  secretAccessKey: "GY7DhYZ4j0L3Q8udkiepaqAed7YG602sL8cVG1zu", // replace with your secret access key
 });
 
 const TranslateComponent = () => {
